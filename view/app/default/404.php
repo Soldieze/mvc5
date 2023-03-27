@@ -1,1 +1,1 @@
-<p style="text-align: center;font-size: 2em;">Page 404</p>
+<p style="text-align: center;font-size: 2em;">Mon site est en maintenance</p>

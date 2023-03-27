@@ -27,4 +27,9 @@ class DefaultController extends Controller
         $this->render('app.default.404');
     }
 
+    public function contact()
+    {
+        $this->render('app.default.contact', ['username' => 'Mehdi']);
+    }
+
 }
